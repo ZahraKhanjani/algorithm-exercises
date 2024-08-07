@@ -30,6 +30,22 @@ class Queue {
     }
 
     dequeue(){
-        // return null or a value
+        if (!this.first) return null
+
+        const result = this.first
+
+        if (this.first === this.last){
+            this.last = null
+        }
+        this.first = this.first.next
+        this.size--
+
+        return result.value
     }
 }
+
+const queue = new Queue()
+queue.enqueue(1)
+
+queue.dequeue()
+console.log(queue)
