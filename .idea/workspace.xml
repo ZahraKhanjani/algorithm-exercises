@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03384cb-f47d-46bd-8e52-ce869396bb9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singlyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/singlyLinkedList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areThereDuplicates.js" beforeDir="false" afterPath="$PROJECT_DIR$/areThereDuplicates.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Diginext class/algorithm-exercises",
+    "last_opened_file_path": "D:/Projects/Diginext class/algorithm-exercises",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +71,7 @@
       <updated>1722928925280</updated>
       <workItem from="1722928926273" duration="8484000" />
       <workItem from="1723017655958" duration="1534000" />
+      <workItem from="1723063250185" duration="528000" />
     </task>
     <servers />
   </component>

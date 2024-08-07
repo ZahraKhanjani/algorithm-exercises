@@ -28,7 +28,7 @@ function areThereDuplicates(...arguments) {
 //Bonus Time=> O(nlogn) Space=> O(1)
 
 function refactoredAreThereDuplicate (...arguments) {
-    arguments.sort()
+    arguments.sort((a,b)=>a-b)
 
     for (let i =0; i< arguments.length;i++){
         if (arguments[i] === arguments[i+1])
