@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c03384cb-f47d-46bd-8e52-ce869396bb9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/minSubArrayLen.js" beforeDir="false" afterPath="$PROJECT_DIR$/minSubArrayLen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singlyLinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/singlyLinkedList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +25,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="exersices-1" />
-                    <option name="lastUsedInstant" value="1722929453" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1722944395" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1722929452" />
+                    <option name="branchName" value="exersices-1" />
+                    <option name="lastUsedInstant" value="1722929453" />
                   </RecentBranch>
                 </list>
               </option>
@@ -52,7 +53,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Diginext class/in_class_challenges",
+    "last_opened_file_path": "E:/Diginext class/algorithm-exercises",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,7 +70,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722928925280</updated>
-      <workItem from="1722928926273" duration="7058000" />
+      <workItem from="1722928926273" duration="8484000" />
+      <workItem from="1723017655958" duration="1534000" />
     </task>
     <servers />
   </component>
